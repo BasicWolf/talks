@@ -51,27 +51,49 @@ and finally you push it  - to the **mainline**, since you formally had an
 
 That's а fellow developer on your shoulder. How about getting more people involved?
 It's not just "an extra pair of eyes" then - it's a hive mind backing you up.
-And they are not just developers, but also QA, PO, even your Scrum master!
-At this point, it's not just you, but the whole *mob* of your teammates working
+
+What is a hive mind? It's
+the minds of the seasoned programmers amplifying one-another,
+the minds of the juniors, who have a great opportunity to learn fast and deep,
+the minds of the recently joined members, who can immediately contribute and be guided while contributing,
+the minds of QA, who can nurture the quality while the code is being cast,
+the mind of PO, ready to provide business insight,
+the minds of designers, database engineers, infrastructure specialists and so on
+- the minds and the experience that you need here and now.
+
+At this point, it's not just you, but the whole *mob* of people working
 on your JIRA ticket. So, why even assign the tickets to individuals in the first place,
 when you can collaborate on every issue and solve them together?
+Why spread the effort, doing something in parallel, when the team
+can focus on one important thing at a time?
 
-We call this collaborative programming sessions - "Mob programming" or simply
-"mobbing".
+
+We call this focused collaborative software development sessions
+- "Mob programming" or simply "mobbing".
 I've been doing mob programming for almost four years now. For me, mobbing is
 light years ahead of work done in silos.
 
 
 ## Collaboration
 
-There are many ways to have a mobbing session, but they also have some common rules.
-First, there are roles: the **navigators** and the driver. The job of the
-**navigators** to help the driver
+There are many ways to have a mobbing session, but they have some common rules.
+First, there are roles: there are **navigators** and one **driver**.
+The **navigators** guide the driver, who is writing the code.
 
-The essential parts are that
-at any given time, there is only a single person, called a **driver**, who
-writes the code
+There is a catch though. People would soon get bored watching the driver and
+the driver gets tired too.
+So it's essential that you switch the **driver** seat often.
+How often? If a mob of three changes the **driver** seat once in ten minutes,
+it means that every one would get to the keyboard only once in half an hour!
 
+Ideal loop: write, verify, commit and change driver
+
+Sometimes the navigators have to literally tell the driver what to write -
+word after word, symbol after symbol - e.g. if a driver is not familiar
+with the project, the framework, or even the programming language.
+
+
+### Spaces
 
 On a typical mobbing day, team members gather closer in dedicated space -
 real or virtual and
@@ -83,40 +105,6 @@ real or virtual and
 has some necessary key elements which make it effective.
 
 
-
-
-You get a feeling, that you are the **driver** steering the editor wheel,
-and **navigators** help you to find the road.
-
-There is a catch though. People would soon get bored to watch you driving and
-you'll get tired too!
-So it's essential that you switch the **driver** seat often.
-How often? If a mob of three changes the **driver** seat once in ten minutes,
-it means that every one would get to the keyboard only once in half an hour!
-
 Let's call this group of people a *Mob*.
 A *mob* - is not necessarily the whole team, People join and leave when
 needed, but in the end the work is done by a *mob* of professionals.
-
-
-
-When you start doing At this point you're already doing software development not as individual, but
-as a ? What if you stop spreading the backlog to individuals
-and start working on ALL issues together.
-
-We call that "Mob programming".
-This group of people is not constant in spacetime - they join when possible
-and leave when they need.
-
-
-
-A mob is not something constant, it is fluid,
-with people joining and leaving as they wish. A
-
-
-# A story of a software engineer
-
-* Meets her team
-* Gets onboarded
-* Sets up her working environment
-* And gets her first task
