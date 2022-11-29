@@ -1,4 +1,18 @@
+# Messages
 
+1. The lone gunslingers, I am great (and you are not)
+2. The united craftsmen, We are Great and Life is Great
+3. The Bridge - Mob programming
+
+# Why should I care?
+
+Mob programming - the evolution in your culture code.
+
+
+# Quick notes
+
+No more "interruptions"
+No more "worries of undone"
 
 # A familiar picture of a software team
 
